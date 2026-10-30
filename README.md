@@ -10,12 +10,16 @@
 
 ### Now
 
+<img align="right" width="360" src="./assets/statistician.svg" alt="A statistician at three laptops: numbers scrolling, a histogram with a bell curve, and a scatter plot with a regression line"/>
+
 I build the models and maps behind early warnings at **IGAD-ICPAC**, the climate centre for the Greater Horn of Africa.
 
 - Retraining a **conditional GAN (WGAN-GP)** that turns ECMWF IFS forecasts into sharp, probabilistic rainfall for 11 countries, learning from RFE2 satellite rainfall
 - Building **drought and flood vulnerability profiles** from exposure, susceptibility and resilience layers for IGAD countries
 - Writing Python training manuals and teaching them to colleagues from IGAD member states
 - Statistician by training: BSc Statistics, Jomo Kenyatta University of Agriculture and Technology
+
+<br clear="right"/>
 
 ### Featured work
 
